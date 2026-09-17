@@ -1,16 +1,39 @@
-## Hi there 👋
+# NekoAndreeva
 
-<!--
-**elenaandreevasvinolup-alt/elenaandreevasvinolup-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent developer based in Rhode Island, USA.
 
-Here are some ideas to get you started:
+I build tools and systems for Unity, with a particular interest in visual scripting,
+editor tooling, and accessible development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+### NekoScriptGraph
+
+A Scratch-like visual scripting system for Unity.
+
+Currently focused on improving the project, its documentation,
+and the overall development workflow.
+
+## Contact
+
+For technical questions, project-related inquiries, collaboration, or support:
+
+📧 elenaandreevasvinolup@gmail.com
+
+Email is the most reliable way to reach me.
+
+## Availability
+
+I usually reply when I have enough time to give a useful answer.
+Responses may not be immediate, especially during active development periods.
+
+For technical questions, please include relevant context such as:
+
+- Unity version
+- screenshots
+- logs or error messages
+- reproduction steps
+
+## Communication
+
+I'm generally reserved online and tend to keep communication concise and focused.
