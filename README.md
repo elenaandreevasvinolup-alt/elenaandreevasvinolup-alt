@@ -1,9 +1,11 @@
 # NekoAndreeva
 
-Independent developer based in Rhode Island, USA.
+Catgirl, Independent developer based in Rhode Island, USA.
 
 I build tools and systems for Unity, with a particular interest in visual scripting,
 editor tooling, and accessible development workflows.
+
+Beyond software development, I enjoy creative projects with a personal touch. I also like aircraft, scale models, video games, and cats.
 
 ## Current Project
 
